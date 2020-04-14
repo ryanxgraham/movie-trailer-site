@@ -25,7 +25,7 @@ young_frankenstein = media.Movie(
 mandy = media.Movie(
     "Mandy",
     "(2018)",
-    "Nicolas Cage loses everything and goes nuts",
+    "Nicolas Cage goes nuts",
     "https://images-na.ssl-images-amazon.com/images/I/41EAM6XmsXL._AC_.jpg",
     "https://www.youtube.com/watch?v=hRKVxT4-1wM")
 ace_ventura = media.Movie(

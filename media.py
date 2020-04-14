@@ -1,4 +1,4 @@
-"""Contains definition for the Movie class used in entertainment_center.py"""
+"""Contains definition for the Movie class used in entertainment_center.py."""
 
 import webbrowser
 
@@ -10,12 +10,12 @@ class Movie(object):
     and a URL for a youtube trailer.
     """
 
-    def __init__(self, movie_title, release_date, movie_summary, poster_image,
+    def __init__(self, movie_title, release_date, movie_storyline, poster_image,
     trailer_youtube):
         """Initialize Move Class."""
         self.title = movie_title
         self.release_date = release_date
-        self.story = movie_summary
+        self.storyline = movie_storyline
         self.poster_image_url = poster_image
         self.trailer_youtube_url = trailer_youtube
 
