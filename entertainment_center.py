@@ -33,7 +33,7 @@ ace_ventura = media.Movie(
     "(1995)",
     "In search of Shikaka",
     "https://images-na.ssl-images-amazon.com/images/I/51d4Nz21hNL._AC_.jpg",
-    "https://www.youtube.com/watch?v=A99O84ct-WM")
+    "https://www.youtube.com/watch?v=cXcH0f2B2vA")
 airplane = media.Movie(
     "Airplane!",
     "(1980)",
