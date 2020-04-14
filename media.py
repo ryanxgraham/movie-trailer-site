@@ -12,7 +12,7 @@ class Movie(object):
 
     def __init__(self, movie_title, release_date, movie_storyline, poster_image,
     trailer_youtube):
-        """Initialize Move Class."""
+        """Initialize Movie Class."""
         self.title = movie_title
         self.release_date = release_date
         self.storyline = movie_storyline
